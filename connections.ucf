@@ -1,0 +1,14 @@
+-------UCF------
+#FPGA Avanxe
+#S= SALIDAS_LEDS
+
+NET "s(0)" LOC = "N9"; 
+NET "s(1)" LOC = "L10"; 
+NET "s(2)" LOC = "M7"; 
+NET "s(3)" LOC = "N6"; 
+NET "s(4)" LOC = "L7"; 
+NET "s(5)" LOC = "P8"; 
+
+#Entradas- Switch's
+NET "a" LOC = "M6"; 
+NET "b" LOC = "P4"; 
